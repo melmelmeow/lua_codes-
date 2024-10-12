@@ -1,0 +1,9 @@
+local sunriseHour = 6
+  local dayDuration = 12
+  local cycleDuration = dayDuration * 60
+  local minutesPerDay = 24 * 60
+  local environment = game:GetService("Lightning")
+    local startTime = tick() - (environment:GetMinutesAfterMidnigh() / minutePerDay
+                                
+    
+  
